@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -139,7 +140,7 @@
        מלכישוע
       </persName>
      </person>
-     <person xml:id='bָ"'>
+     <person xml:id="bָ&#34;">
       <persName>
        בָּ"א
       </persName>
@@ -174,7 +175,7 @@
        ישי
       </persName>
      </person>
-     <person xml:id='b"'>
+     <person xml:id="b&#34;">
       <persName>
        ב"א
       </persName>
@@ -14480,7 +14481,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"'>
+    <sp who="#b&#34;">
      <speaker>
       ב"א
      </speaker>
@@ -14505,7 +14506,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"'>
+    <sp who="#b&#34;">
      <speaker>
       ב"א
      </speaker>
@@ -14548,7 +14549,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"'>
+    <sp who="#b&#34;">
      <speaker>
       ב"א
      </speaker>
@@ -14572,7 +14573,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#bָ"'>
+    <sp who="#bָ&#34;">
      <speaker>
       בָּ"א
      </speaker>
@@ -14759,7 +14760,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"'>
+    <sp who="#b&#34;">
      <speaker>
       ב"א
      </speaker>
@@ -14784,7 +14785,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"'>
+    <sp who="#b&#34;">
      <speaker>
       ב"א
      </speaker>

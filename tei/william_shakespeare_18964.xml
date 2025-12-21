@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -99,7 +100,7 @@
        אחד הצירים
       </persName>
      </person>
-     <person xml:id='g"'>
+     <person xml:id="g&#34;">
       <persName>
        ג"א
       </persName>
@@ -144,7 +145,7 @@
        הרוח
       </persName>
      </person>
-     <person xml:id='n"'>
+     <person xml:id="n&#34;">
       <persName>
        נ"א
       </persName>
@@ -27923,7 +27924,7 @@ Tieck בתקנו את תרגום שלעגעל.
     </sp>
     <sp>
     </sp>
-    <sp who='#n"'>
+    <sp who="#n&#34;">
      <speaker>
       נ"א
      </speaker>
@@ -29783,7 +29784,7 @@ Bodenstedt אומר, כי כוונת המליץ במלת  האמיץ בגבור�
     </sp>
     <sp>
     </sp>
-    <sp who='#g"'>
+    <sp who="#g&#34;">
      <speaker>
       ג"א
      </speaker>

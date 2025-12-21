@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -69,7 +70,7 @@
        בחור א'
       </persName>
      </person>
-     <person xml:id="bkhurh ">
+     <person xml:id="bkhurh">
       <persName>
        בחורה א
       </persName>

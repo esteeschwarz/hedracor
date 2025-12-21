@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -149,7 +150,7 @@
        יש דבר-מה חולני בקרב בני האדם
       </persName>
      </person>
-     <person xml:id='d"r utu'>
+     <person xml:id="d&#34;r utu">
       <persName>
        ד"ר אוטו
       </persName>
@@ -1055,7 +1056,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#d"r utu'>
+    <sp who="#d&#34;r utu">
      <speaker>
       ד"ר אוטו
      </speaker>
@@ -1103,7 +1104,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#d"r utu'>
+    <sp who="#d&#34;r utu">
      <speaker>
       ד"ר אוטו
      </speaker>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -74,7 +75,7 @@
        יְדַעְתֶּן
       </persName>
      </person>
-     <person xml:id="mrh ">
+     <person xml:id="mrh">
       <persName>
        מראה א
       </persName>
@@ -94,7 +95,7 @@
        הזקן
       </persName>
      </person>
-     <person xml:id="rutskh ">
+     <person xml:id="rutskh">
       <persName>
        רוצח א
       </persName>
@@ -139,7 +140,7 @@
        דונלבין
       </persName>
      </person>
-     <person xml:id="mkhshfh ">
+     <person xml:id="mkhshfh">
       <persName>
        מכשפה א
       </persName>

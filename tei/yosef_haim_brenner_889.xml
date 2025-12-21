@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -69,7 +70,7 @@
        אחרים
       </persName>
      </person>
-     <person xml:id="r' kheym ihudh b&quot;r yekb-ishrl mhrshk">
+     <person xml:id="r' kheym ihudh b&#34;r yekb-ishrl mhrshk">
       <persName>
        ר' חיים יהודה ב"ר יעקב-ישראל מהרשק
       </persName>
@@ -194,7 +195,7 @@
        פני
       </persName>
      </person>
-     <person xml:id='hmigrnt hs"si'>
+     <person xml:id="hmigrnt hs&#34;si">
       <persName>
        האמיגראנט הס"סי
       </persName>
@@ -259,7 +260,7 @@
        המתווכח הראשון
       </persName>
      </person>
-     <person xml:id='hss"i hmigrnt'>
+     <person xml:id="hss&#34;i hmigrnt">
       <persName>
        הסס"י האמיגראנט
       </persName>
@@ -349,7 +350,7 @@
        אמיגראנט ד'
       </persName>
      </person>
-     <person xml:id='hs"si hmigrnt'>
+     <person xml:id="hs&#34;si hmigrnt">
       <persName>
        הס"סי האמיגראנט
       </persName>
@@ -434,7 +435,7 @@
     </speaker>
    </sp>
    <div>
-    <sp who="#r' kheym ihudh b&quot;r yekb-ishrl mhrshk">
+    <sp who="#r' kheym ihudh b&#34;r yekb-ishrl mhrshk">
      <speaker>
       ר' חיים יהודה ב"ר יעקב-ישראל מהרשק
      </speaker>
@@ -5963,7 +5964,7 @@
       נוּ, מובן, לא הסכמתי!
      </p>
     </sp>
-    <sp who='#hmigrnt hs"si'>
+    <sp who="#hmigrnt hs&#34;si">
      <speaker>
       האמיגראנט הס"סי
      </speaker>
@@ -6025,7 +6026,7 @@
       : אותו המעשה, שעשו אתמול ב“בית-העם” שלנו!
      </p>
     </sp>
-    <sp who='#hs"si hmigrnt'>
+    <sp who="#hs&#34;si hmigrnt">
      <speaker>
       הס"סי האמיגראנט
      </speaker>
@@ -6198,7 +6199,7 @@
       פה, ברוסיה, צריכים אנו לעבוד…
      </p>
     </sp>
-    <sp who='#hss"i hmigrnt'>
+    <sp who="#hss&#34;i hmigrnt">
      <speaker>
       הסס"י האמיגראנט
      </speaker>
@@ -6321,7 +6322,7 @@
       : ובסטֶפּני, ובשוֹרדיטש…
      </p>
     </sp>
-    <sp who='#hss"i hmigrnt'>
+    <sp who="#hss&#34;i hmigrnt">
      <speaker>
       הסס"י האמיגראנט
      </speaker>
@@ -6440,7 +6441,7 @@
       : אכן יהודית היא ביותר הפרוקלאמאציה; לא סגנונו של בירפלד.
      </p>
     </sp>
-    <sp who='#hs"si hmigrnt'>
+    <sp who="#hs&#34;si hmigrnt">
      <speaker>
       הס"סי האמיגראנט
      </speaker>

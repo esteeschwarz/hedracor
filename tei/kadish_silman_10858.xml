@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -94,7 +95,7 @@
        שולחן ג
       </persName>
      </person>
-     <person xml:id="nerh ">
+     <person xml:id="nerh">
       <persName>
        נערה א
       </persName>
@@ -214,7 +215,7 @@
        נערות אסתר
       </persName>
      </person>
-     <person xml:id="khd mshulkhn ">
+     <person xml:id="khd mshulkhn">
       <persName>
        אחד משולחן א
       </persName>
@@ -284,7 +285,7 @@
        הגי
       </persName>
      </person>
-     <person xml:id="shulkhn ">
+     <person xml:id="shulkhn">
       <persName>
        שולחן א
       </persName>

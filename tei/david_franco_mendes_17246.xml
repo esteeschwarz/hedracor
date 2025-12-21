@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -164,7 +165,7 @@
        אַבְרֵךְ
       </persName>
      </person>
-     <person xml:id='khzkihu hkhhn blinfnti s"t'>
+     <person xml:id="khzkihu hkhhn blinfnti s&#34;t">
       <persName>
        חזקיהו הכהן בלינפאנטי ס"ט
       </persName>
@@ -174,8 +175,7 @@
        אִם
       </persName>
      </person>
-     <person xml:id="hskhms hmur hgdul hgun hmfursm khbud muri urbi shul bkhir h' b b“d
-ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
+     <person xml:id="hskhms hmur hgdul hgun hmfursm khbud muri urbi shul bkhir h' b b“d ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&#34;r">
       <persName>
        הסכמת המאור הגדול הגאון המפורסם כבוד מורי ורבי שאול בחיר ה' אב ב“ד
 ור”מ בק“ק אשכנזים אשר באמשטרדם יצ”ו וכסאו לעד יכון אוכי"ר
@@ -221,7 +221,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
        עזריה
       </persName>
      </person>
-     <person xml:id='hn"l lsnhdrin'>
+     <person xml:id="hn&#34;l lsnhdrin">
       <persName>
        הנ"ל לסנהדרין
       </persName>
@@ -406,7 +406,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
        ליואש המלך
       </persName>
      </person>
-     <person xml:id='shlim kh"d '>
+     <person xml:id="shlim kh&#34;d">
       <persName>
        תהלים כ"ד א
       </persName>
@@ -754,7 +754,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
    </sp>
    <sp>
    </sp>
-   <sp who='#khzkihu hkhhn blinfnti s"t'>
+   <sp who="#khzkihu hkhhn blinfnti s&#34;t">
     <speaker>
      חזקיהו הכהן בלינפאנטי ס"ט
     </speaker>
@@ -888,8 +888,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
       שלמה שלם
      </speaker>
     </sp>
-    <sp who="#hskhms hmur hgdul hgun hmfursm khbud muri urbi shul bkhir h' b b“d
-ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
+    <sp who="#hskhms hmur hgdul hgun hmfursm khbud muri urbi shul bkhir h' b b“d ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&#34;r">
      <speaker>
       הסכמת המאור הגדול הגאון המפורסם כבוד מורי ורבי שאול בחיר ה' אב ב“ד
 ור”מ בק“ק אשכנזים אשר באמשטרדם יצ”ו וכסאו לעד יכון אוכי"ר:
@@ -5162,7 +5161,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
     </sp>
     <sp>
     </sp>
-    <sp who='#shlim kh"d '>
+    <sp who="#shlim kh&#34;d ">
      <speaker>
       תהלים כ"ד א
      </speaker>
@@ -7901,7 +7900,7 @@ ur”m bk“k shkhnzim shr bmshtrdm its”u ukhsu led ikhun ukhi&quot;r">
       : – פִּתְחוּ שְׁעָרִים – – – – – –
      </p>
     </sp>
-    <sp who='#hn"l lsnhdrin'>
+    <sp who="#hn&#34;l lsnhdrin">
      <speaker>
       הנ"ל לסנהדרין
      </speaker>

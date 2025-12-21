@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -159,7 +160,7 @@
        עֲנָה
       </persName>
      </person>
-     <person xml:id='herh ms hmu"l'>
+     <person xml:id="herh ms hmu&#34;l">
       <persName>
        הערה מאת המו"ל
       </persName>
@@ -24120,7 +24121,7 @@
       תם הספר.
      </speaker>
     </sp>
-    <sp who='#herh ms hmu"l'>
+    <sp who="#herh ms hmu&#34;l">
      <speaker>
       הערה מאת המו"ל
      </speaker>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -129,7 +130,7 @@
        רוֹקֵחַ
       </persName>
      </person>
-     <person xml:id='"rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi'>
+     <person xml:id="&#34;rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi">
       <persName>
        "רָם רֵעִי רֹעִי — רָם רֵעִי רֹעִי
       </persName>
@@ -10925,7 +10926,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#"rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi'>
+    <sp who="#&#34;rָm rֵeִi rֹeִi — rָm rֵeִi rֹeִi">
      <speaker>
       "רָם רֵעִי רֹעִי — רָם רֵעִי רֹעִי
      </speaker>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -116,8 +117,8 @@
         <castItem>אריה-לייב</castItem>
         <castItem>בנימין</castItem>
         <castItem>הגנב</castItem>
-        <castItem></castItem>
-        <castItem></castItem>
+        <castItem/>
+        <castItem/>
       </castList>
     </front>
     <body>
@@ -378,7 +379,7 @@
         </sp>
         <sp who="#Chanah">
           <speaker>חנה:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(מורידה את... ומשמיעה צעקה)</stage>
         <sp who="#Bracha">
@@ -419,7 +420,7 @@
         </sp>
         <sp who="#Bracha">
           <speaker>ברכה:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(ליעקב) רגע אחד, הנה חכי נא, האם אינך תופס... (מתלחשים)</stage>
         <sp who="#Jaakov">
@@ -456,12 +457,12 @@
         </sp>
         <sp who="#Leib">
           <speaker>לייב:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(קם) ובכן, הנה, התירי אותו — אני מחזיק את האקדוח.</stage>
         <sp who="#Dieb">
           <speaker>גנב:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(קם) ובכן, יחזיר לי, בבקשה, את האקדוח. הרי אינו טעון וגם אין לי כל צורך בו. תודה רבה, גבירותי! האם עלי? … מהי השעה בעצם? (לוקח את שעונו של יעקב).</stage>
         <sp who="#Jaakov">
@@ -742,7 +743,7 @@
         <stage>(חצקל בא, מתחיל לעבוד ע"י הקפה).</stage>
         <sp who="#Bracha">
           <speaker>ברכה:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(מביאה טס עם אוכל, - חצקל נבהל. מוציא אקדוח.) יאכל בבקשה, זה יוסיף לו כח, ליל-מנוחה (נעלמת).</stage>
         <sp who="#Chezkel">
@@ -751,7 +752,7 @@
         </sp>
         <sp who="#Jaakov">
           <speaker>יעקב:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(בא) הנה, בחור, הא לך סיגאריות (נעלם).</stage>
         <sp who="#Chezkel">
@@ -760,7 +761,7 @@
         </sp>
         <sp who="#Chanah">
           <speaker>חנה:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(באה) אהובי, אומץ לב! אתה בודאי תצליח (מחבקת ומנשקת).</stage>
         <stage>(נעלמת).</stage>
@@ -770,12 +771,12 @@
         </sp>
         <sp who="#Benjamin">
           <speaker>בנימין:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(מתיצב מולו) עמוד! זה לא חצי עבודה! קודם תפתח את הקפה.</stage>
         <sp who="#Chezkel">
           <speaker>חצקל:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(נסוג אחורנית, כשידיו למעלה). אינני מבין, יסלח נא, טעיתי בדלת.</stage>
         <sp who="#Benjamin">
@@ -800,7 +801,7 @@
         </sp>
         <sp who="#Chezkel">
           <speaker>חצקל:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(עובד בקדחתנות, הקפה נפתחת).</stage>
         <sp who="#Benjamin">
@@ -838,7 +839,7 @@
         </sp>
         <sp who="#Chanah">
           <speaker>חנה:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(נופלת על צואר בנימין). בנימין?</stage>
         <sp who="#Bracha">

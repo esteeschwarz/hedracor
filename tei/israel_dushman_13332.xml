@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -159,7 +160,7 @@
        החילים
       </persName>
      </person>
-     <person xml:id='mkhzh snkh"i'>
+     <person xml:id="mkhzh snkh&#34;i">
       <persName>
        מחזה תנכ"י
       </persName>
@@ -194,7 +195,7 @@
  </standOff>
  <text>
   <body>
-   <sp who='#mkhzh snkh"i'>
+   <sp who="#mkhzh snkh&#34;i">
     <speaker>
      מחזה תנכ"י
     </speaker>

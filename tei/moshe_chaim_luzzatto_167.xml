@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -64,7 +65,7 @@
        לֵאמֹר
       </persName>
      </person>
-     <person xml:id="shikhh ">
+     <person xml:id="shikhh">
       <persName>
        שיחה א
       </persName>
@@ -119,7 +120,7 @@
        תרמית
       </persName>
      </person>
-     <person xml:id='rkhl di-oyig inrkish its"u'>
+     <person xml:id="rkhl di-oyig inrkish its&#34;u">
       <persName>
        רחל די-וייגא אינרקיש יצ"ו
       </persName>
@@ -169,7 +170,7 @@
        משל
       </persName>
      </person>
-     <person xml:id='yekb d-goysh its"u'>
+     <person xml:id="yekb d-goysh its&#34;u">
       <persName>
        יעקב דא-גאויש יצ"ו
       </persName>
@@ -209,7 +210,7 @@
        שיחה ו'
       </persName>
      </person>
-     <person xml:id='b"h'>
+     <person xml:id="b&#34;h">
       <persName>
        ב"ה
       </persName>
@@ -254,7 +255,7 @@
       ליום חתונת החכם והנבון כהר"ר
      </p>
     </sp>
-    <sp who='#yekb d-goysh its"u'>
+    <sp who="#yekb d-goysh its&#34;u">
      <speaker>
       יעקב דא-גאויש יצ"ו
      </speaker>
@@ -264,7 +265,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rkhl di-oyig inrkish its"u'>
+    <sp who="#rkhl di-oyig inrkish its&#34;u">
      <speaker>
       רחל די-וייגא אינרקיש יצ"ו
      </speaker>
@@ -274,7 +275,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#b"h'>
+    <sp who="#b&#34;h">
      <speaker>
       ב"ה
      </speaker>

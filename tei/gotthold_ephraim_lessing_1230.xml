@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -139,7 +140,7 @@
        וַיִּקְרָא
       </persName>
      </person>
-     <person xml:id='rh"kh'>
+     <person xml:id="rh&#34;kh">
       <persName>
        ראה"כ
       </persName>
@@ -164,7 +165,7 @@
        נער המקלט
       </persName>
      </person>
-     <person xml:id='neh"m'>
+     <person xml:id="neh&#34;m">
       <persName>
        נעה"מ
       </persName>
@@ -21008,7 +21009,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21065,7 +21066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21120,7 +21121,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21140,7 +21141,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21305,7 +21306,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21356,7 +21357,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21421,7 +21422,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21451,7 +21452,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21481,7 +21482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21521,7 +21522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21576,7 +21577,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21621,7 +21622,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21683,7 +21684,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21808,7 +21809,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21833,7 +21834,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -21896,7 +21897,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#rh"kh'>
+    <sp who="#rh&#34;kh">
      <speaker>
       ראה"כ
      </speaker>
@@ -24525,7 +24526,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24560,7 +24561,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24610,7 +24611,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24640,7 +24641,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24715,7 +24716,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24790,7 +24791,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24825,7 +24826,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24910,7 +24911,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24935,7 +24936,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24960,7 +24961,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -24995,7 +24996,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25040,7 +25041,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25065,7 +25066,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25100,7 +25101,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25315,7 +25316,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25370,7 +25371,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25425,7 +25426,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25531,7 +25532,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25601,7 +25602,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25651,7 +25652,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25671,7 +25672,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25732,7 +25733,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25772,7 +25773,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25797,7 +25798,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25837,7 +25838,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -25902,7 +25903,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -27346,7 +27347,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -27396,7 +27397,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -27436,7 +27437,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -27481,7 +27482,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
@@ -27521,7 +27522,7 @@
     </sp>
     <sp>
     </sp>
-    <sp who='#neh"m'>
+    <sp who="#neh&#34;m">
      <speaker>
       נעה"מ
      </speaker>
