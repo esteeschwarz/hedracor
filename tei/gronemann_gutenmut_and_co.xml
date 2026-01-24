@@ -5,14 +5,14 @@
       <titleStmt>
         <title>גוטנמוט אנד קומפני</title>
         <title type="sub">או: היציאה למצרים</title>
-        <title xml:lang="eng">Gutenmut and Co.</title>
-        <title type="sub" xml:lang="eng">Or: The Exodus to Egypt</title>
+        <title xml:lang="en">Gutenmut and Co.</title>
+        <title type="sub" xml:lang="en">Or: The Exodus to Egypt</title>
         <author>
         <persName>
           <forename>סמי</forename>
           <surname>גרונמן</surname>
         </persName>
-        <persName xml:lang="eng">
+        <persName xml:lang="en">
           <forename>Sammy</forename>
           <surname>Gronemann</surname>
         </persName>
@@ -24,7 +24,7 @@
             </forename>
             <surname>אלתרמ</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Nathan</forename>
             <surname>Alterman</surname>
           </persName>
