@@ -10,3 +10,4 @@
 - received review request, didnt know permissions? i figure out...
 - consulted action fail (tei validate: mostly xmlid issues)
   - cloned, try push this readme changes (to chk my permissions)
+  - tested: no permissions, pushed to fork.
