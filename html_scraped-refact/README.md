@@ -5,3 +5,8 @@
 #### notes:
 - danil: i found that its important to replace (or escape) anführungszeichen (i dont know the name, its not really a double yud, i think its abbreviations?) instances like in these: /ד"ר גרי – רופא
 / by /''/ e.g. so that the \<speaker\> declaration for instance is properly tagged in an element like \<sp who="..."\> if the speaker contains these anführungszeichen.
+
+# 16133.2025-03-23(10.25).review requested(cmil)
+- received review request, didnt know permissions? i figure out...
+- consulted action fail (tei validate: mostly xmlid issues)
+  - cloned, try push this readme changes (to chk my permissions)
